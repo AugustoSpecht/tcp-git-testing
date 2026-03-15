@@ -1,3 +1,3 @@
-"nada é suficiente para qum o suficiente é pouco."
+"nada é suficiente para quem o suficiente é pouco."
 
 -Epicuro
